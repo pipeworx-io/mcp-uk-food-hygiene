@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/uk-food-hygiene",
   "title": "Uk Food Hygiene",
-  "description": "UK Food Hygiene MCP — Food Standards Agency food hygiene ratings (FHRS)",
-  "version": "0.1.2",
+  "description": "UK Food Hygiene MCP — Food Standards Agency food hygiene ratings (FHRS) via…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/uk-food-hygiene",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-uk-food-hygiene",
