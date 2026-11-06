@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-uk-food-hygiene",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "UK Food Hygiene MCP — Food Standards Agency food hygiene ratings (FHRS) via api.ratings.food.gov.uk (keyless, official FSA open data).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "uk-food-hygiene",
     "gatewaySlug": "uk-food-hygiene",
-    "sourceHash": "v1-3922ce039fb7421d206c98202da13a73d3d8f493248b4276537007f488b9e5e1",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-b262b451496c7265072e8c9a4a0ac24bfec6c183dcfc0d0b288941e2b3fb1d12",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
